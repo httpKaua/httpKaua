@@ -1,5 +1,5 @@
 ## Olá, Eu sou Kauã Rodrigues.  👋 ##
-<p>Tenho 19 anos, atualmente moro em Minas Gerais. Sou estudante do último módulo de Analise e Desenvolvimento de Sistemas no Senai. 
+<p>Tenho 19 anos, atualmente moro em São Paulo. Sou formado em um curso de Analise e Desenvolvimento de Sistemas pelo Senai. 
 <br><br>
 
 ## 🚀 MAIN SKILLS: 
