@@ -1,8 +1,8 @@
-## Olá, Eu sou Kauã Rodrigues.  👋 ##
-<p>Tenho 19 anos, atualmente moro em São Paulo. Sou formado em um curso de Analise e Desenvolvimento de Sistemas pelo Senai. 
+## Hello, I am Kauã!  👋 ##
+<p>I am an adept software developer with a strong inclination towards backend programming, a passion that has been ingrained in me since my initial exposure to the field. My professional journey encompasses a wealth of experience in both web and desktop development, rendering me a proficient full-stack practitioner, albeit with a specialized focus on backend operations. Currently, I am dedicatedly honing my expertise in PHP, leveraging the Laravel framework to craft robust and efficient solutions. While my primary concentration is on backend technologies, I have also garnered a working familiarity with VueJS, NodeJS, and CodeIgniter, albeit at an intermediate level. My portfolio showcases an array of successfully executed projects spanning website and application development, a testament to my ceaseless commitment to self-improvement and the acquisition of new proficiencies. As an individual deeply devoted to my craft, I remain unceasingly dedicated to refining my skills and staying abreast of emerging industry trends.</p>
 <br><br>
 
-## 🚀 MAIN SKILLS: 
+## 🚀 Main Skills: 
 
  <br>
   
@@ -31,7 +31,7 @@
 <br>
 
 
-## 💬 CONTACT ME
+## 💬 Contact Me
 
 <br>
 
